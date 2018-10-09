@@ -1,3 +1,5 @@
+##JARED RAND##
+
 # CSC-320-Assembly-Project
 A project for Computer Organization and Architecture utilizing Arm Assembly
 
