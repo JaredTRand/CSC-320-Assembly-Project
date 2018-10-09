@@ -6,4 +6,4 @@ This project is split into three parts
 	2: Non-Recursive Merge Sort
 	3: Recursive Merge Sort
 	
-The folder holding each part of the project will contain a more in depth description of its section
+Read the Jupyter file for a more in depth description/explanation of each portion
