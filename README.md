@@ -9,6 +9,6 @@ This project is split into three parts
 	
 	2: Non-Recursive Merge Sort
 	
-	3: Recursive Merge Sort
+	3: Recursive Merge Sort (INCOMPLETE)
 	
 Read the Jupyter file for a more in depth description/explanation of each portion
